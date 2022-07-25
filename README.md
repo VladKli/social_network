@@ -25,8 +25,7 @@ Rest Framework, Flask or FastAPI) and all libraries which you are prefer to use 
 by day.
 
 ● user activity an endpoint which will show when user was login last time and when he mades a last 
-request to the service. - not inmplemented
-
+request to the service. (not implemented)
 <h3>Requirements:</h3>
 
 ● Implement token authentication (JWT is prefered)
